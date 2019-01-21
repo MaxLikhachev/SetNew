@@ -2,6 +2,24 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/maxlikhachev/Documents/Labs/&#x410;&#x41c;&#x423;/Set/Set/BorderButton.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/maxlikhachev/Documents/Labs/&#x410;&#x41c;&#x423;/Set/Set/New Group/SetCard.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../Set/SetCardButton.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/maxlikhachev/Documents/Labs/&#x410;&#x41c;&#x423;/Set/Set/New Group/SetCardDeck.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/maxlikhachev/Documents/Labs/&#x410;&#x41c;&#x423;/Set/Set/SetGame.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../Set/ViewController.swift">
+   </FileRef>
+   <FileRef
       location = "self:Set.xcodeproj">
    </FileRef>
 </Workspace>
